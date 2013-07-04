@@ -1,0 +1,4 @@
+jquery.texthint
+===============
+
+jquery.texthint
